@@ -5,4 +5,5 @@ module.exports = {
   getGpaRange: require('./lib/getGpaRange'),
   normalizeGpa: require('./lib/normalizeGpa'),
   riskUtils: require('./lib/riskUtils'),
+  csvDataHelper: require('./lib/csvDataHelper'),
 };
